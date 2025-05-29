@@ -10,4 +10,4 @@ A modular Python-based web vulnerability scanner for educational purposes. Scans
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/WebVulnScanner.git
+   
